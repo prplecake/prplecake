@@ -4,7 +4,7 @@ I write and contribute to free and open source software in my free time, but I'm
 
 ## Projects
 
-* [VeganMSP.com](https://github.com/veganmsp/veganmsp.com) - [[Website]](https://veganmsp.com) - a vegan information site for the Minneapolis/St. Paul metro area
+* [VeganMSP.com](https://github.com/veganmsp/veganmsp.com) - [[Website](https://veganmsp.com)] - a vegan information site for the Minneapolis/St. Paul metro area
 * Maintainer of several fediverse-oriented projects:
   * [gof](https://github.com/prplecake/gof) - post RSS/Atom feeds to the fediverse
   * [mastopinner](https://github.com/prplecake/mastopinner) - Save Mastodon posts to Pinboard
