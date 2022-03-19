@@ -9,6 +9,7 @@ I write and contribute to free and open source software in my free time, but I'm
   * [gof](https://github.com/prplecake/gof) - post RSS/Atom feeds to the fediverse
   * [mastopinner](https://github.com/prplecake/mastopinner) - Save Mastodon posts to Pinboard
   * [mastodon-bookmark-sync](https://github.com/prplecake/mastodon-bookmark-sync) - Sync Mastodon bookmarks to Pinboard (potentially eventually other bookmarking services)
+  * [tools.splat.soy](https://github.com/prplecake/tools.splat.soy) - [[Website](https://tools.splat.soy)] - useful tools for the fediverse
 * [go-thumbnail](https://github.com/prplecake/go-thumbnail) - create thumbnails in Go
 
 ### Projects I've contributed to
