@@ -1,6 +1,6 @@
 # Hey, I'm Matthew 👋
 
-I write and contribute to free and open source software in my free time, but I'm employed by @FortressMedicalSystems, a member of the @EvidentIQ group.
+I write and contribute to free and open source software.
 
 ## Projects
 
