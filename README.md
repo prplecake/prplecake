@@ -1,4 +1,4 @@
-# Hey, I'm Matthew 👋
+# Hey, I'm Matty 👋
 
 I write and contribute to free and open source software.
 
