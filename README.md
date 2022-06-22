@@ -20,5 +20,4 @@ I write and contribute to free and open source software.
 
 ## Around the web
 
-* Check out my [website](https://jrgnsn.net)
 * Fund my work on [Liberapay](https://liberapay.com/prplecake/) or by becoming a [GitHub Sponsor](https://github.com/sponsors/prplecake) 🥰
