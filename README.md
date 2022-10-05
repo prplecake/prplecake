@@ -15,6 +15,7 @@ I write and contribute to free and open source software.
 ### Projects I've contributed to
 
 * [ActivityWatch](https://github.com/activitywath/ActivityWatch)
+* [glitch-soc/mastodon](https://github.com/glitch-soc/mastodon)
 * [jekyll-target-blank](https://github.com/keithmifsud/jekyll-target-blank)
 * [pinboard-firefox](https://github.com/lostsnow/pinboard-firefox)
 
