@@ -18,6 +18,7 @@ I write and contribute to free and open source software.
 * [glitch-soc/mastodon](https://github.com/glitch-soc/mastodon)
 * [jekyll-target-blank](https://github.com/keithmifsud/jekyll-target-blank)
 * [mastodon/mastodon](https://github.com/mastodon/mastodon)
+* [metabolist/metatext](https://github.com/metabolist/metatext)
 * [pinboard-firefox](https://github.com/lostsnow/pinboard-firefox)
 
 ## Around the web
