@@ -4,6 +4,7 @@ I write and contribute to free and open source software.
 
 ## Projects
 
+* [remote-ac-controller](https://github.com/prplecake/remote-ac-controller) - a Raspberry Pi powered IR remote for an AC unit. Uses a DHT sensor for automation tasks, and Django for the web inferface/API. 
 * [VeganMSP.com](https://github.com/veganmsp/veganmsp.com) - [[Website](https://veganmsp.com)] - a vegan information site for the Minneapolis/St. Paul metro area
 * Maintainer of several fediverse-oriented projects:
   * [gof](https://github.com/prplecake/gof) - post RSS/Atom feeds to the fediverse
