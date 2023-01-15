@@ -1,6 +1,6 @@
 # Hey, I'm Matty 👋
 
-I write and contribute to free and open source software.
+I write and contribute to free and open source software. Sometimes I tinker with electronics and circuits.
 
 ## Projects
 
