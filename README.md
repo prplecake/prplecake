@@ -7,9 +7,10 @@ I write and contribute to free and open source software. Sometimes I tinker with
 * [remote-ac-controller](https://github.com/prplecake/remote-ac-controller) - a Raspberry Pi powered IR remote for an AC unit. Uses a DHT sensor for automation tasks, and Django for the web inferface/API. 
 * [VeganMSP.com](https://github.com/veganmsp/veganmsp.com) - [[Website](https://veganmsp.com)] - a vegan information site for the Minneapolis/St. Paul metro area
 * Maintainer of several fediverse-oriented projects:
+  * [CiT.CLI](https://github.com/CompostInTraining/CiT.CLI) - Mastodon Admin CLI, namesake of my instance, but it would work with any
   * [gof](https://github.com/prplecake/gof) - post RSS/Atom feeds to the fediverse
-  * [mastopinner](https://github.com/prplecake/mastopinner) - Save Mastodon posts to Pinboard
   * [mastodon-bookmark-sync](https://github.com/prplecake/mastodon-bookmark-sync) - Sync Mastodon bookmarks to Pinboard (potentially eventually other bookmarking services)
+  * [mastopinner](https://github.com/prplecake/mastopinner) - Save Mastodon posts to Pinboard
   * [tools.splat.soy](https://github.com/prplecake/tools.splat.soy) - [[Website](https://tools.splat.soy)] - useful tools for the fediverse
 * [go-thumbnail](https://github.com/prplecake/go-thumbnail) - create thumbnails in Go
 
