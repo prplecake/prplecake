@@ -4,6 +4,7 @@ I write and contribute to free and open source software. Sometimes I tinker with
 
 ## Projects
 
+* [ddns-bunny.net](https://github.com/prplecake/ddns-bunny.net) - a dynamic DNS utility for Bunny.net DNS.
 * [remote-ac-controller](https://github.com/prplecake/remote-ac-controller) - a Raspberry Pi powered IR remote for an AC unit. Uses a DHT sensor for automation tasks, and Django for the web inferface/API. 
 * [VeganMSP.com](https://github.com/veganmsp/veganmsp.com) - [[Website](https://veganmsp.com)] - a vegan information site for the Minneapolis/St. Paul metro area
 * Maintainer of several fediverse-oriented projects:
