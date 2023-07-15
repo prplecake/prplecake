@@ -17,7 +17,7 @@ I write and contribute to free and open source software. Sometimes I tinker with
 
 ### Projects I've contributed to
 
-* [ActivityWatch](https://github.com/activitywath/ActivityWatch)
+* [ActivityWatch](https://github.com/activitywatch/ActivityWatch)
 * [glitch-soc/mastodon](https://github.com/glitch-soc/mastodon)
 * [jekyll-target-blank](https://github.com/keithmifsud/jekyll-target-blank)
 * [mastodon/mastodon](https://github.com/mastodon/mastodon)
