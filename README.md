@@ -11,7 +11,6 @@ I write and contribute to free and open source software. Sometimes I tinker with
   * [CiT.CLI](https://github.com/CompostInTraining/CiT.CLI) - Mastodon Admin CLI, namesake of my instance, but it would work with any
   * [gof](https://github.com/prplecake/gof) - post RSS/Atom feeds to the fediverse
   * [mastodon-bookmark-sync](https://github.com/prplecake/mastodon-bookmark-sync) - Sync Mastodon bookmarks to LinkAce or Pinboard (potentially eventually other bookmarking services)
-  * [mastopinner](https://github.com/prplecake/mastopinner) - Save Mastodon posts to Pinboard
   * [tools.splat.soy](https://github.com/prplecake/tools.splat.soy) - [[Website](https://tools.splat.soy)] - useful tools for the fediverse
 * [go-thumbnail](https://github.com/prplecake/go-thumbnail) - create thumbnails in Go
 
