@@ -23,6 +23,11 @@ I write and contribute to free and open source software. Sometimes I tinker with
 * [metabolist/metatext](https://github.com/metabolist/metatext)
 * [pinboard-firefox](https://github.com/lostsnow/pinboard-firefox)
 
+### Flipper Zero
+
+* [f0](https://github.com/prplecake/f0) - my main Flipper Zero repo
+* [IR Decoder](https://github.com/prplecake/f0/tree/master/infrared/apps/ir_decoder) - a simple IR Decoder app, my first app for the Flipper Zero
+
 ## Around the web
 
 * Fund my work on [Liberapay](https://liberapay.com/prplecake/) or by becoming a [GitHub Sponsor](https://github.com/sponsors/prplecake) 🥰
